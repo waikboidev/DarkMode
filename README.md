@@ -4,8 +4,6 @@
 ### Using https://raw.githubusercontent.com/Kayno0o/vibrant-glass-theme/main/glass_local.theme.css
 ### But edited
 
-# Thank you
-
 
 # Installation
 1. Click onto Dark.css 
