@@ -20,9 +20,9 @@
 @import url("https://raw.githack.com/Kayno0o/vibrant-glass-theme/main/glass_remote.theme.css");
 
 .theme-dark {
-    --window-name: "Discord ";
-    --window-name-color: rgb(255, 255, 255);
-    --light-opacity: 0;
+    --window-name: "Discord -- Created by Waike";
+    --window-name-color: rgb(88, 88, 86);
+    --light-opacity: 0.3;
     --opacity: 0.15;
     --dark-opacity: 0;
     --background-url: url('https://cdn.discordapp.com/attachments/6960140243748536401/850445513542205531/1-IrFMpUu.png');
