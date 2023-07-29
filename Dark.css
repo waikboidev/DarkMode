@@ -1,0 +1,30 @@
+/**
+    * @name Dark Mode
+    * @version 1.1
+    * @description Dark Mode for Vencord
+    * @author waikenotlol
+    *
+    * Using Kayno0o's Vibrant Glass Package
+**/
+
+/*
+  ____             _      __  __           _      
+ |  _ \  __ _ _ __| | __ |  \/  | ___   __| | ___ 
+ | | | |/ _` | '__| |/ / | |\/| |/ _ \ / _` |/ _ \
+ | |_| | (_| | |  |   <  | |  | | (_) | (_| |  __/
+ |____/ \__,_|_|  |_|\_\ |_|  |_|\___/ \__,_|\___
+                                                  
+
+*/
+
+@import url("https://raw.githack.com/Kayno0o/vibrant-glass-theme/main/glass_remote.theme.css");
+
+.theme-dark {
+    --window-name: "Discord ";
+    --window-name-color: rgb(255, 255, 255);
+    --light-opacity: 0;
+    --opacity: 0.15;
+    --dark-opacity: 0;
+    --background-url: url('https://cdn.discordapp.com/attachments/6960140243748536401/850445513542205531/1-IrFMpUu.png');
+    --background-color: 0, 0, 0;
+}
